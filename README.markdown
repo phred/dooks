@@ -17,7 +17,7 @@ Confused? Disgusted? A good starting point is [the glorious history of 💩](htt
 | [punycode](http://en.wikipedia.org/wiki/Punycode)   | `xn--ls8h` | e.g. <http://💩.github.io/>
 | MD5 | bd49d549f7c1f0169d6d61322a02d39d |
 | SHA1 | 82ab1e5bf66129bdbb3d5477dfe48bfcb2545cbd |
-
+| Javascript string | "\ud83d\udca9" |
 
 ## protocol support
 
@@ -31,7 +31,7 @@ Confused? Disgusted? A good starting point is [the glorious history of 💩](htt
 
 |        | String | Identifier | Notes
 ------ | ------ | ------ | ------
-| Factor | ![ 👍 ���](http://cl.ly/image/111W0M2F1k3v/Image%202014-12-08%20at%201.36.39%20pm.png) | ![ 👍 ](http://cl.ly/image/2T2k3b3A1V3M/Image%202014-12-08%20at%201.35.02%20pm.png) | *Minor*: _typing 💩 janks the cursor for the text following it_ |
+| Factor | ![ 👍 ���](http://cl.ly/image/111W0M2F1k3v/Image%202014-12-08%20at%201.36.39%20pm.png) | ![ 👍 ](http://cl.ly/image/2T2k3b3A1V3M/Image%202014-12-08%20at%201.35.02%20pm.png) | *Minor*: _typing 💩 janks the cursor for the text following it_ |
 
 ## apps / websites
 
